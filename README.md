@@ -1,0 +1,5 @@
+This is the universal acoustic measurement setup for musical instrument makers. Currently supported instruments are: the violin, the viola
+
+This repository provides .3mf files for FDM-3D-printing of the necessary parts, a list of additional parts to buy and guides for making and using the setup.
+
+# Universal-Acoustic-Measurement-Setup
