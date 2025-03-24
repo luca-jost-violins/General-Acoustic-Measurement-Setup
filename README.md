@@ -27,11 +27,17 @@ Here is a complete list of the required parts:
 | 1 ㎌ ceramic capacitors                    | 2     | [here](https://www.amazon.com/-/de/dp/B085RDTCCV/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JZ2OMAGM07F3&dib=eyJ2IjoiMSJ9.y-Ub074PYHofX0GC70-11RhtDsov1tXy3PMi99Vj5UZt50pnTZmXSa8OrhAPA96yeGniCp2Wb1XPCGEEFnOftOgUitaOJM7d4yIeDyOO1n8KKFm0qcXQGi-en3vL1Q0ijVkFPuGNPJPBD4X7er1DN4FzobnXIDAJ8md1iBu3CTlmQOHymDEpibOOqVTNPDneJavSC0M7G_iThaYXwOaJRPT8gHtoEzadZeulYfYeLI8.hc56FMwv0cijTpHxn5iC3iWAB4a4bkk555Y0fxzg4uw&dib_tag=se&keywords=Ceramic%2BCapacitors&qid=1742825480&sprefix=ceramic%2Bcapacitors%2Caps%2C159&sr=8-3&th=1)  | [here](https://www.amazon.de/dp/B087785H1J?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_5) |
 
 Shorthands:
+
 ID = Innder Diameter
+
 OD = Outer Diameter
+
 AWG = American Wire Gauge
+
 kΩ = kiloohm
+
 ㎌ = microfarad
+
 
 Here is a complete list of the required tools and consumables:
 
