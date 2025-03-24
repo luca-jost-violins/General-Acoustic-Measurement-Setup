@@ -4,7 +4,7 @@ This is the universal acoustic measurement setup for musical instrument makers. 
 
 This repository will provide .3mf files for FDM-3D-printing of the necessary parts, a list of additional parts to buy and guides for making and using the setup.
 
-Here is a complete list of the required parts:
+Here is a complete list of the required parts. Please note that I haven't checked for best price or availability. This is just to help you with more details about the parts. Also for some of the electronic components I could not find exact products as of yet, so there are some questionmarks around the links:
 
 | Part                                       | Count | Link (US) | Link (GER) |
 | -------------                              | ----- | ----------| ---------- |
