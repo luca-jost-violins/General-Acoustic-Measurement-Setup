@@ -1,4 +1,4 @@
-# Universal-Acoustic-Measurement-Setup
+# General-Acoustic-Measurement-Setup
 
 This is the universal acoustic measurement setup for musical instrument makers. Currently supported instruments are: the violin, the viola
 
