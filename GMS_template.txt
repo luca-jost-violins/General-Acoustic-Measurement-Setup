@@ -1,0 +1,49 @@
+Name of test=<Radiation ScratchPad/>
+Date=<3790672941/>
+Location=<Scratch/>
+Template=<GMS/>
+Soundcard=<Microphone (USB Audio CODEC )/>
+resolution=<32/>
+Sampling rate=<48000/>
+Ch1 Gain =<1.000000/>
+Ch2 Gain=<1.000000/>
+Sample time (s)=<0.300000/>
+Pre-trigger (s)=<0.001000/>
+Hammer Threshold=<0.050000/>
+Positions=<1/>
+Taps/Position=<5/>
+Set Names=<H/>
+Freq resolution=<1.000000/>
+Hammer cutoff=<0.005000/>
+Mic cutoff=<0.200000/>
+Double bounce =<0.100000/>
+Hammer Cal=<1.000000/>
+dB Offset=<-5.000000/>
+Accel Cal=<1.000000/>
+Vibrometer Cal=<1.000000/>
+Mic Cal=<49.380000/>
+Output=<2/>
+Voltage Cal=<13.800000/>
+Vibrometer Port=<ASRL27::INSTR/>
+Range=<20/>
+High Pass=<2/>
+Bandwidth=<25/>
+X Range=<2.000000E+2	1.000000E+4	1.000000E+1	1.000000E+2	2.000000E+2
+0.000000E+0	1.000000E-2	2.500000E-3	5.000000E-4	0.000000E+0
+0.000000E+0	2.500000E-1	5.000000E-2	1.000000E-2	0.000000E+0
+2.000000E+2	1.000000E+4	1.000000E+1	1.000000E+2	1.000000E+3
+/>
+Y Range=<-2.500000E+1	0.000000E+0	2.500000E+1	1.000000E+0	-2.500000E+1
+-1.000000E-1	7.500000E-1	2.000000E-1	5.000000E-2	0.000000E+0
+-1.000000E+0	1.000000E+0	5.000000E-1	1.000000E-1	-1.000000E+0
+-3.700000E+1	-7.000000E+0	1.000000E+0	2.000000E-1	-3.700000E+1
+/>
+dB Spread=<30.000000/>
+Trigger=<0/>
+Ch_1=<1/>
+Ch_2=<2/>
+flip?=<true/>
+60Hz=<false/>
+Time offset=<0.000000/>
+Piezo Cal=<1.000000/>
+Default Notes=</>
