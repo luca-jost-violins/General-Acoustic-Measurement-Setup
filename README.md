@@ -28,7 +28,7 @@ Here is a complete list of the required parts. Please note that I haven't checke
 
 Shorthands:
 
-ID = Innder Diameter
+ID = Inner Diameter
 
 OD = Outer Diameter
 
